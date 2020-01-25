@@ -30,9 +30,6 @@ __all__ = [
 ]
 
 
-
-
-
 def build_challenge_transaction(
     server_secret: str,
     client_account_id: str,
